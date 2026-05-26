@@ -4,8 +4,6 @@ Projet de fin de module pour le Master SDIA, module **SMA**, encadré par **Prof
 
 Ce projet implémente un système multi-agent de coaching fitness. L'utilisateur décrit son objectif, puis plusieurs agents spécialisés collaborent pour produire un profil structuré, un programme d'entraînement, un plan nutritionnel et des jalons de progression. Le plan final est validé par l'utilisateur grâce à un point Human-in-the-loop.
 
-Code source : <https://github.com/AyoubElho/fitness-coach-multi-agent>
-
 ## Fonctionnalités
 
 - Orchestration multi-agent avec **LangGraph**
