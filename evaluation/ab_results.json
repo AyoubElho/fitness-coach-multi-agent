@@ -1,0 +1,53 @@
+{
+  "prompt_A_avg": 0.88,
+  "prompt_B_avg": 1.0,
+  "winner": "B",
+  "details": {
+    "prompt_A": [
+      {
+        "test": "g1",
+        "keyword_score": 1.0,
+        "mention_score": 1.0,
+        "overall": 1.0,
+        "output_length": 385
+      },
+      {
+        "test": "g2",
+        "keyword_score": 0.75,
+        "mention_score": 1.0,
+        "overall": 0.85,
+        "output_length": 757
+      },
+      {
+        "test": "g3",
+        "keyword_score": 1.0,
+        "mention_score": 0.5,
+        "overall": 0.8,
+        "output_length": 425
+      }
+    ],
+    "prompt_B": [
+      {
+        "test": "g1",
+        "keyword_score": 1.0,
+        "mention_score": 1.0,
+        "overall": 1.0,
+        "output_length": 1707
+      },
+      {
+        "test": "g2",
+        "keyword_score": 1.0,
+        "mention_score": 1.0,
+        "overall": 1.0,
+        "output_length": 1611
+      },
+      {
+        "test": "g3",
+        "keyword_score": 1.0,
+        "mention_score": 1.0,
+        "overall": 1.0,
+        "output_length": 1479
+      }
+    ]
+  }
+}
